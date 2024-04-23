@@ -1,0 +1,12 @@
+{
+  "name": "hareemf04-assignment-45-question",
+  "version": "1.0.0",
+  "description": "",
+  "main": "q10.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hareem Fatima",
+  "license": "MIT"
+}
